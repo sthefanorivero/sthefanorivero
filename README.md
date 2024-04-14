@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sthefanorivero
-- 👀 I’m interested in Big Data & Analytics, using Python in the Data Analyst role, SQL and powerBI. Also interested in applied machine learning.
+- 👀 I’m interested in Big Data & Analytics: Python, R, SQL, Microsoft Excel, Power BI. Also interested in applied machine learning.
 - 🌱 I’m currently learning my Máster in Big Data & Analytics, Cloud computing and ETL tools.
 - 💞️ I’m looking to collaborate on creative dashboards and scripts that can serve the data analyst community that is just starting out.
 - 📫 How to reach me: sth.severo@gmail.com
